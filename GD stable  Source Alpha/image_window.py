@@ -1,7 +1,4 @@
 
-import kivy
-from kivy import app
-from kivy.uix.button import Button
 from kivy.app import App
 from kivy.uix.floatlayout import FloatLayout
 from kivy.clock import Clock
@@ -13,6 +10,8 @@ import os
 import random
 import tkinter
 from tkinter import filedialog
+
+from sympy import true
 
 ## Kivy Code
 
@@ -155,7 +154,7 @@ Builder.load_string('''
 # time_sec=300
 
 Window.size = (700/1.5, 700)
-Window.borderless = False
+Window.borderless = true
 
 
 
