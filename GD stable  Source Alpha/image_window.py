@@ -1,16 +1,13 @@
-
 from kivy.app import App
 from kivy.uix.floatlayout import FloatLayout
 from kivy.clock import Clock
 from kivy.factory import Factory as F
 from kivy.core.window import Window
 from kivy.lang.builder import Builder
-
 import os
 import random
 import tkinter
 from tkinter import filedialog
-
 from sympy import true
 
 ## Kivy Code
