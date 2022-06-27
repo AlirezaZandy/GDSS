@@ -8,8 +8,8 @@ what is this?
 __________________________________________________________________________
 how do i run it?
 
--install dependencies
--run "image_windows.py" (VScode)
--input the time (see proko youtube channel)
--chose dir(theory it is fine to chose the whole system,butkeep it small)
+- install dependencies
+- run "image_windows.py" (VScode)
+- input the time (see proko youtube channel)
+- chose dir(theory it is fine to chose the whole system,butkeep it small)
  
