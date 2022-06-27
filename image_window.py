@@ -8,7 +8,7 @@ import os
 import random
 import tkinter
 from tkinter import filedialog
-from sympy import false, true
+from sympy import false
 
 ## Kivy Code
 
