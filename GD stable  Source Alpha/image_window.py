@@ -207,7 +207,7 @@ class Pictuer(FloatLayout):
             self.img_id = 0
             self.img_gen()
 
-        # print(self.ids.imageView.source)
+        print(self.ids.imageView.source)
 
     def prev_image(self):
 
@@ -217,7 +217,7 @@ class Pictuer(FloatLayout):
             self.img_id -= 1
             self.img_gen()
 
-        # print(self.ids.imageView.source)
+        print(self.ids.imageView.source)
 
     def start_stop(self):
 
@@ -236,7 +236,7 @@ class Pictuer(FloatLayout):
 
 class MyApp(App):
     
-    time_sec = input("enter in sec:   ")
+    time_sec = input("enter in seconds:   ")
 
     def build(self):
 
