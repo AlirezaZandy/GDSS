@@ -8,7 +8,7 @@ import os
 import random
 import tkinter
 from tkinter import filedialog
-from sympy import true
+from sympy import false, true
 
 ## Kivy Code
 
@@ -151,7 +151,7 @@ Builder.load_string('''
 # time_sec=300
 
 Window.size = (700/1.5, 700)
-Window.borderless = true
+Window.borderless = false
 
 
 
