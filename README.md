@@ -4,7 +4,6 @@ what is this?
 
 - this a small personal tool/app/spaghetti that i created to help me with gesture drawing assignments (art stuff).
 - the main purpose of this repository is educating myself on github.
-- my "hello world" code :D
 __________________________________________________________________________
 how do i run it?
 
